@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# 🌟 Mohamed Wazery 🌟  
+Hi 👋, I'm mohamed wazery
+
+✨ *"Building solutions for tomorrow, one project at a time!"*  
 
 👋 Hi there! Welcome to my GitHub profile. I'm a passionate developer and tech enthusiast who loves solving problems and building projects that make a difference.  
 
@@ -25,10 +27,7 @@
 
 ---
 
-✨ *"Building solutions for tomorrow, one project at a time!"*  
 
-<h1 align="center">Hi 👋, I'm mohamed wazery</h1>
-<h3 align="center">Empowering Innovation Through Code | Full-Stack Developer | Flutter & WordPress Specialist | Crafting Digital Experiences with Precision and Creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedwazery&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedwazery" /> </p>
 
