@@ -4,6 +4,8 @@
 
 👋 Hi there! Welcome to my GitHub profile. I'm a passionate developer and tech enthusiast who loves solving problems and building projects that make a difference.  
 
+<h3 align="center">Empowering Innovation Through Code | Full-Stack Developer | Flutter & WordPress Specialist | Crafting Digital Experiences with Precision and Creativity</h3>
+
 ---
 
 ## 🚀 About Me  
@@ -20,35 +22,6 @@
 - **Tools**: Android Studio, Xcode, VS Code, Git  
 - **CMS**: WordPress (WooCommerce, YayExtra plugins, and more)  
 - **Hosting**: Hostinger, cPanel, macOS environments  
-
----
-
-## 🌟 Featured Projects  
-### [📱 Driveshield App](https://github.com/your-repo-link)  
-A Flutter-based app designed to enhance driving safety.  
-- ✨ Key Features: User-friendly interface, cross-platform compatibility  
-- 🛠️ Built with: Flutter, Bloc, and advanced navigation  
-
-### [🖥️ Bon Voyage Website](https://github.com/your-repo-link)  
-A WordPress-powered travel and tourism website.  
-- 🛫 Includes sections for domestic travel, Hajj & Umrah, and more.  
-- 💡 Integrates forms for user inquiries and booking.  
-
-### [📦 Shipping Services Website](https://github.com/your-repo-link)  
-Dynamic website for showcasing shipping services with a responsive design.  
-- 🚛 Features door-to-door shipping, air freight, and sea freight solutions.  
-
----
-
-## 📊 GitHub Stats  
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
----
-
-## 📫 Let's Connect  
-- 🌐 [My Website](https://your-website-link.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📧 Email: mohamed@example.com  
 
 ---
 
@@ -84,6 +57,15 @@ Dynamic website for showcasing shipping services with a responsive design.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedwazery&show_icons=true&locale=en" alt="mohamedwazery" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedwazery&" alt="mohamedwazery" /></p>
+
+
+
+## 📫 Let's Connect  
+- 🌐 [My Website](https://wazery.xyz)  
+- 💼 [LinkedIn](https://linkedin.com/in/m7mdwazery)  
+- 📧 Email: info@wazery.xyz  
+
+---
 
 <!--
 **mohamedwazery/mohamedwazery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
