@@ -19,10 +19,10 @@ Hi 👋, I'm mohamed wazery
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Dart, JavaScript, HTML, CSS, PHP, Python  
+- **Languages**: Dart, JavaScript, CSS, PHP, Swift, Java, Kotlin ... and more
 - **Frameworks**: Flutter, Laravel  
 - **Tools**: Android Studio, Xcode, VS Code, Git  
-- **CMS**: WordPress (WooCommerce, YayExtra plugins, and more)  
+- **CMS**: WordPress (WooCommerce, Multi-Currency, Multilingual, and more) 
 - **Hosting**: Hostinger, cPanel, macOS environments  
 
 ---
