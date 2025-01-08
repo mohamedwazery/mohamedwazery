@@ -76,9 +76,9 @@
 
 
 ## 📫 Let's Connect  
-- 🌐 [My Website](https://wazery.xyz)  
+- 🌐 [My Website](https://wazery.net)  
 - 💼 [LinkedIn](https://linkedin.com/in/m7mdwazery)  
-- 📧 Email: info@wazery.xyz  
+- 📧 Email: info@wazery.net  
 
 ---
 
